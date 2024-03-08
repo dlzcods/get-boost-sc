@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "powerdlz23": "^1.1.4"
+  },
+  "name": "@dlzcods/get-boost-sc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlzcods/get-boost-sc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dlzcods/get-boost-sc/issues"
+  },
+  "homepage": "https://github.com/dlzcods/get-boost-sc#readme",
+  "description": ""
+}
